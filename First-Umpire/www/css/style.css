@@ -38,30 +38,17 @@
   padding-right: 0px;
   text-align: center;
 }
-.balls-table{
-  text-align: center;
-  vertical-align: middle;
-}
-.balls-table td{
-  padding-right: 0.25em;
-  padding-left: 0.25em;
-}
-.balls-table h2{
-  border-radius: 60%;
-  padding: 0.50em;
-  background-color: #f2919A;
-  }
-
-.center{
-  text-align: center;
-}
-.decision-table td{
-  text-align: center;
-  padding: 0.25em;
-  padding-left: 0.5em;
-}
 .decision{
   text-align: center;
   background-color: gray;
+
+}
+
+.balls .button-assertive{
+  border-radius: 50%;
+  border: solid 2px #e52844;
+  background-color: #f290a8;
+  color: #000000;
+  font-size: 1.5em;
 
 }
